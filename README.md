@@ -1,4 +1,5 @@
-Theme Selector PHP
+Lien : https://lauralgweb.github.io/SecectColor/ 
+
 Description
 
 Projet de formation permettant à l’utilisateur de personnaliser les couleurs de la page (fond et texte) et de conserver ses choix grâce aux cookies.
