@@ -29,7 +29,7 @@ git clone https://github.com/ton-username/theme-selector-php.git
 
 Placer le projet dans votre serveur local (ex : MAMP, XAMPP).
 
-Accéder au fichier principal dans le navigateur.
+Accéder au fichier principal selectColor.php dans le navigateur.
 
 Utilisation
 
